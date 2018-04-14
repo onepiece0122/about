@@ -70,7 +70,6 @@ Volkswagen Customerlink為福斯汽車與HTC合作開發的APP，目的在協助
 * .NET Framework
 * 建立車主資料庫
 * 提供API供行動應用程式介接
-* 接收處理行車資料
 
 ## 台新愛的力量活動網站
 ### Client
