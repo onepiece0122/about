@@ -50,7 +50,6 @@ https://www.taiwanexcellence.org
 * AWS環境設定
 * 伺服器服務轉移
 * 日常伺服器維運
-### Screenshots
 
 ## Mercedes-Benz Select 原廠精選中古車網站
 ### Client
@@ -61,12 +60,10 @@ https://www.mercedes-benz-select.com.tw/index
 Mercedes-Benz Select為一介紹賓士原廠精選中古車之網站，提供各經銷商上傳銷售中的二手車資訊，提供使用者搜尋及聯絡購買，更有會員機制紀錄使用者的喜好條件，定期推薦符合條件的二手車訊。
 ### Work details 
 * .NET Framework
-### Screenshots
 
 ## Volkswagen Customerlink APP
 ### Client
 台灣福斯汽車
-### URL
 ### Introduction
 Volkswagen Customerlink為福斯汽車與HTC合作開發的APP，目的在協助車主更能了解愛車的即時情況，也能透過APP預約維修服務、傳送故障資訊、緊急狀況通報等。
 ### Work details 
@@ -74,7 +71,6 @@ Volkswagen Customerlink為福斯汽車與HTC合作開發的APP，目的在協助
 * 建立車主資料庫
 * 提供API供行動應用程式介接
 * 接收處理行車資料
-### Screenshots
 
 ## 台新愛的力量活動網站
 ### Client
@@ -86,4 +82,3 @@ http://www.poweroflove.com.tw/
 ### Work details 
 * .NET Framework
 * 提案、結案以及促票機制的撰寫
-### Screenshots
