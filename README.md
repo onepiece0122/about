@@ -47,9 +47,9 @@ https://www.taiwanexcellence.org
 ### Work details 
 * Laravel Framework
 * 前端套版
-* AWS Solution Architect
-* Server Transfer
-* Server Maintainece
+* AWS環境設定
+* 伺服器服務轉移
+* 日常伺服器維運
 ### Screenshots
 
 ## Mercedes-Benz Select 原廠精選中古車網站
@@ -71,9 +71,9 @@ Mercedes-Benz Select為一介紹賓士原廠精選中古車之網站，提供各
 Volkswagen Customerlink為福斯汽車與HTC合作開發的APP，目的在協助車主更能了解愛車的即時情況，也能透過APP預約維修服務、傳送故障資訊、緊急狀況通報等。
 ### Work details 
 * .NET Framework
-* Build car owner database
-* Provide API service
-* Recieve and process driving records
+* 建立車主資料庫
+* 提供API供行動應用程式介接
+* 接收處理行車資料
 ### Screenshots
 
 ## 台新愛的力量活動網站
